@@ -1,3 +1,9 @@
-/wk3
+/wk4
 
 *.class
+/Debug/target/
+test*
+Debug
+junk*
+/wk3/debugaita/target/
+debug*
